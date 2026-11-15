@@ -9,9 +9,9 @@ To have enough knowledge in SQL.
 <br>
 I'm interesting in projects of kind of Systems of gestion, inventory, reservation, control, administration of X domain.
 
-# 💻 Future Stack To Learn:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,graphql,postgres,redis,visualstudio,azure,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=swagger)](https://skillicons.dev)
+# 💻 Future Stack Where I Want To Learn:
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,visualstudio,azure,docker)]
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AngelSimanc4007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
