@@ -10,7 +10,7 @@ To have enough knowledge in SQL.
 I'm interesting in projects of kind of Systems of gestion, inventory, reservation, control, administration of X domain.
 
 # 💻 Future Stack Where I Want To Learn:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,visualstudio,azure,docker)]
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,visualstudio,azure,docker)
 
 
 # 📊 GitHub Stats:
